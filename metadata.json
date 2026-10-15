@@ -1,0 +1,6 @@
+{
+  "name": "RAUNAK EXPLOITS",
+  "description": "Professional gaming configuration, FPS capability investigator, and Shizuku diagnostics for BGMI and Free Fire on Vivo and iQOO devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
